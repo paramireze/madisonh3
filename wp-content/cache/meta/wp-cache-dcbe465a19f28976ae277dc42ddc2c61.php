@@ -1,0 +1,1 @@
+<?php die(); ?>{"headers":{"Vary":"Vary: Cookie","Last-Modified":"Last-Modified: Sun, 26 Mar 2017 20:18:39 GMT","Content-Type":"Content-Type: application\/rss+xml; charset=UTF-8","ETag":"ETag: \"1848b3dc3e4f8228cf22b0ce09777de6\""},"uri":"madisonh3.com\/feed\/","blog_id":1,"post":0,"key":"madisonh3.com80\/feed\/"}
