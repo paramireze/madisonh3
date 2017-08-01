@@ -15,8 +15,7 @@
 </header><!-- .page-header -->
 <div id="portfolio-wrapper">
     <h2 style="text-align:center;" class="section-title">Add News Item or Hashcap</h2>
-    <div>Have an announcement or a Hashcap you want to post? Well go fuck yourself. Then contact OTC at madjestic_stallion@yahoo.com with a copy of your post.</div>
-    <hr />
+    <div style="border-bottom:dotted black 1px; margin-bottom: 10px;">Have an announcement or a Hashcap you want to post? Well go fuck yourself. Then contact OTC at madjestic_stallion@yahoo.com with a copy of your post.</div>
     <?php /* Start the Loop */ ?>
 	<?php while ( have_posts() ) : the_post(); ?>
 
