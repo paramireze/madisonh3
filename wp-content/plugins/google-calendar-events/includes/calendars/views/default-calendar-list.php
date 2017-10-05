@@ -589,7 +589,26 @@ class Default_Calendar_List implements Calendar_View {
 					echo '</dt>' . "\n";
 				}
 
-				$list_events = '<ul class="simcal-events">' . "\n";
+                /*
+                @todo: add conditional logic for inserting images
+                if full moon run
+                    display full moon image
+                else if hash
+                    display hash
+                else if analvesary
+                    display analversary image
+                else if known event
+                    display event image
+                end if
+
+                if hasher name is recognized && hasher has a profile
+                    display link
+                    display image?
+                end if
+
+                
+                */
+                $list_events = '<ul class="simcal-events">' . "\n";
 
 				$calendar_classes = array();
 
